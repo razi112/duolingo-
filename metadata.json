@@ -1,0 +1,8 @@
+{
+  "name": "Linguo - AI Powered Language Learning",
+  "description": "A gamified language learning platform inspired by Duolingo, featuring AI-generated exercises, real-time feedback, and interactive learning paths using Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
